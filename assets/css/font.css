@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/font/Gotham-Medium.woff2') format('woff2'),
+        url('../fonts/font/Gotham-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/font/Gotham-Bold.woff2') format('woff2'),
+        url('../fonts/font/Gotham-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/font/Gotham-Book.woff2') format('woff2'),
+        url('../fonts/font/Gotham-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('../fonts/font/GothamRnd-Book.woff2') format('woff2'),
+        url('../fonts/font/GothamRnd-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('../fonts/font/GothamRnd-Medium.woff2') format('woff2'),
+        url('../fonts/font/GothamRnd-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Ultra';
+    src: url('../fonts/font/Gotham-Ultra.woff2') format('woff2'),
+        url('../fonts/font/Gotham-Ultra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham Rounded';
+    src: url('../fonts/font/GothamRnd-Bold.woff2') format('woff2'),
+        url('../fonts/font/GothamRnd-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
